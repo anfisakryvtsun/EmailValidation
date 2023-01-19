@@ -13,7 +13,7 @@ public class EmailValidation {
     else return false;
   }
   public static void main(String[] args) {
-      String email1 = "lolec";
+      String email1 = "dusan.micuch@gmail.com";
       System.out.println(isValid(email1)); 
   }
 }
